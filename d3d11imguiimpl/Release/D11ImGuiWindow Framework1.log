@@ -1,0 +1,14 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Tsuky\Desktop\D11ImGuiWindow Framework1\header\DX11ImGuiWindow.h(192): warning C4715: 'DX11ImGuiWindow::SetupD3D' : les chemins de contrôle ne retournent pas tous une valeur
+  All 1250 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  D11ImGuiWindow Framework1.vcxproj -> C:\Users\Tsuky\Desktop\D11ImGuiWindow Framework1\Release\D11ImGuiWindow Framework1.exe
